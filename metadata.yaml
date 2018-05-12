@@ -1,0 +1,32 @@
+_repo: Oeuvres-po-tiques-Tome-1_18061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Christine, de Pisan
+    aliases:
+    - Pisan, Christine de
+    - Pisan, Christiné de
+    - Pizan, Christine de
+    birthdate: 1363
+    deathdate: 1430
+    gutenberg_agent_id: '4613'
+    url: http://www.gutenberg.org/2009/agents/4613
+    wikipedia: http://en.wikipedia.org/wiki/Christine_de_Pizan
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18061'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Oeuvres poétiques Tome 1
+url: http://www.gutenberg.org/ebooks/18061
