@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4613
     wikipedia: http://en.wikipedia.org/wiki/Christine_de_Pizan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18061#Oeuvres-po-tiques-Tome-1
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2006-03-27'
 gutenberg_type: Text
